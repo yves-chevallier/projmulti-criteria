@@ -77,7 +77,7 @@ Ce dernier critère évalue la constance et la maturité du groupe dans la gesti
 
 ### Rédaction des rapports
 
-Vous pouvez avoir recours à des outils IA pour la correction et la revue stylistique mais non pour la rédaction. Les IA se trompent et hallucinent. Utilisez un langage clair. Évitez les adjectifs surabondants et les formulations vagues. Privilégiez des phrases courtes et précises. Adoptez une structure de rapport logique avec des sections bien définies : introduction, méthodologie, résultats, discussion, conclusion.
+Vous pouvez avoir recours à des outils IA pour la correction et la revue stylistique mais non pour la rédaction. Les IA se trompent et hallucinent. Si vous utilisez des outils IA, il faut ajouter le lien vers la conversation dans la bibliographie. Utilisez un langage clair. Évitez les adjectifs surabondants et les formulations vagues. Privilégiez des phrases courtes et précises. Adoptez une structure de rapport logique avec des sections bien définies : introduction, méthodologie, résultats, discussion, conclusion.
 
 Illustrez vos propos avec des schémas, tableaux et graphiques pertinents plutôt que de longs paragraphes descriptifs. Évitez par ailleurs de copier-coller des contenus sans les adapter à votre contexte spécifique. Une figure capturée sur internet ne doit expliquer que ce qu'elle illustre dans votre projet.
 
